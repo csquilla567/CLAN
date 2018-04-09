@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "666076738349",
+    "firebase_url": "https://clan-6265c.firebaseio.com",
+    "project_id": "clan-6265c",
+    "storage_bucket": "clan-6265c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666076738349:android:94e2673581e48724",
+        "android_client_info": {
+          "package_name": "com.example.carolinesquillante.clan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666076738349-taep07403hsukkt3sgbvnvuq88g1bvsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carolinesquillante.clan",
+            "certificate_hash": "6693dfd7ae6306ac547dbb44c4bfdf2d72e63c8d"
+          }
+        },
+        {
+          "client_id": "666076738349-nprjbdl9j227n2vmt2qr8nraj7oc9nac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQXOu6CHHkLZFCgBFRswcsK1oYbRcSp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666076738349-nprjbdl9j227n2vmt2qr8nraj7oc9nac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
