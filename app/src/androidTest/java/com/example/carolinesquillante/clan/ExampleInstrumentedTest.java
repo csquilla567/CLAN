@@ -24,3 +24,8 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.carolinesquillante.clan", appContext.getPackageName());
     }
 }
+
+
+
+//NICOLE 
+//LAURA
